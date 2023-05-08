@@ -1,12 +1,18 @@
 <html>
 <head>
+<style>
+h1 {text-align: center;
+font-size: 100px;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
 <title> Another simple HTML example 
 </title>
 </head>
 <body style="background-color:black;">
-<h1> MATTHEW TSUI </h1>
+<h1><FONT COLOR=white> MATT 懷恩 TSUI </h1>
 
-Welcome to the world of HTML.
+
 <p>
 This is one paragraph.
 </p>
